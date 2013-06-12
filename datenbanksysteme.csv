@@ -1,0 +1,24 @@
+Frontside,Flipside,Category,Level
+Relation,"Tabelle, Menge von Tupeln",Datenbanksysteme,0
+Tupel,Zeile einer Tabelle,Datenbanksysteme,0
+Relationenschema,"Alle Spaltennamen/Attribute zusammen, fette Zeilen",Datenbanksysteme,0
+Attribut,einzelner Spaltenname,Datenbanksysteme,0
+Relationenname,Name der Tabelle,Datenbanksysteme,0
+DBMS,"Datenbank-Management-System, Software zur Datenverwaltung",Datenbanksysteme,0
+DBS,Datenbanksystem (DBMS + Datenbank),Datenbanksysteme,0
+Datenbank,Konzeptuell: Menge von Relationen,Datenbanksysteme,0
+Datenbankschema,Menge von Relationenschemata + globale Integritaetsbedingungen,Datenbanksysteme,0
+Sicht/View,"Query (+ Name), virtuelles Konzept",Datenbanksysteme,0
+Selektion,Zeilen/Tupel auswaehlen,Datenbanksysteme,0
+Projektion,Spalten/Attribute auswaehlen,Datenbanksysteme,0
+Datentyp,Menge zuverlaessiger Zustaende,Datenbanksysteme,0
+Typ,Universum von Objektion gleicher mathematischer Struktur,Datenbanksysteme,0
+Auspraegung/Instanz,Element eines Typs,Datenbanksysteme,0
+Polymorphes Typsystem,"Universum von Typen, beschrieben durch Festlegung atomarer Type, die Angabe von Typkonstruktoren, mit denen Typen zu neuen Typen kombiniert werden koennen, Konsistenzbedinungen und Operationen",Datenbanksysteme,0
+Unterschied monomorphe und polymorphe Operatoren,"Monomorphe Operatoren nur auf Elemente bestimmter Typen anwendbar, polymorphe auf Elemente unterschiedlicher Typen anwendbar",Datenbanksysteme,0
+Datenmodell,"System aus atomaren Typen, Typkonstruktoren, polymorphen Konsistenzbedingungen und polymorphen Operatoren",Datenbanksysteme,0
+Datenbasiskonsistenz,"Datenbasis ist bedeutungstrau, wenn ihre Elemente Modelle einer gegebenen Miniwelt repraesentieren",Datenbanksysteme,0
+Datenbasistyp,Ergebnis der Konkretisierung,Datenbanksysteme,0
+Datenbasisschema,Beschreibung eines Datenbasistyps,Datenbanksysteme,0
+Konsistenz,Grad an Bedeutungstreue einer Datenbasis,Datenbanksysteme,0
+Datenbank-Modell,"Sprache, in der Schemata beschrieben werden, z.B. ER-Diagramm, UML, relationales Modell",Datenbanksysteme,0
