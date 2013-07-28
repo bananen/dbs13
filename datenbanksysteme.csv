@@ -27,3 +27,9 @@ Performanz, Materialisierung
 Zugriffsrechte, Authentifizierung
 logische Datenunabhaengigkeit
 Datenschutz",Datenbanksysteme,0
+1NF,Jedes Attribut der Relation muss einen atomaren Wertebereich haben,Datenbanksysteme,0
+2NF,"1NF und: Kein Nichtschlüsselattribut ist funktional abhängig von einer echten Teilmenge eines Schlüsselkandidaten.
+
+Oder: Jedes nicht-primäre Attribut ist jeweils von allen ganzen Schlüsseln abhängig, nicht nur von einem Teil eines Schlüssels.",Datenbanksysteme,0
+3NF,2NF und: Kein Nichtschlüsselattribut ist von einem Schlüsselkandidaten transitiv abhaengig.,Datenbanksysteme,0
+BCNF,"3NF und: Jede Determinante (Attributmenge, von der andere Attribute funktional abhängen) ist Superschlüssel (oder die Abhängigkeit ist trivial).",Datenbanksysteme,0
