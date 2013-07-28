@@ -22,3 +22,8 @@ Datenbasistyp,Ergebnis der Konkretisierung,Datenbanksysteme,0
 Datenbasisschema,Beschreibung eines Datenbasistyps,Datenbanksysteme,0
 Konsistenz,Grad an Bedeutungstreue einer Datenbasis,Datenbanksysteme,0
 Datenbank-Modell,"Sprache, in der Schemata beschrieben werden, z.B. ER-Diagramm, UML, relationales Modell",Datenbanksysteme,0
+Vorteile von Sichten,"Uebersichtlichkeit, Bequemlichkeit, Wiederverwendbarkeit
+Performanz, Materialisierung
+Zugriffsrechte, Authentifizierung
+logische Datenunabhaengigkeit
+Datenschutz",Datenbanksysteme,0
